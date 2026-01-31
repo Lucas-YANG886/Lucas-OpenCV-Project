@@ -1,0 +1,9 @@
+银行卡识别项目环境检查报告
+生成时间: 2026-01-28 13:31:04.899375
+Python版本: 3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) 
+[GCC 13.3.0]
+OpenCV状态: FAILED
+
+缺失的库:
+  - opencv-python
+  - jupyter
